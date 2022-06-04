@@ -1,4 +1,4 @@
-# connoreaves.com
+# [connoreaves.com](https://connoreaves.com)
 
 This site serves as my digital introduction and unofficial resume. It is a testament to my abilities as a front-end developer, and as a portal to projects that demonstrate my full-stack experience.
 
